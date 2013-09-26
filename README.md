@@ -35,4 +35,4 @@ Collect, clean and summarize logs
 
 Do what ever analysis you what to these log. They are your men
 
-Also, above steps are summarized into `justdoit.sh`, configure some parameters in `justdoit.conf` to suit your needs
+Also, steps above are summarized into `justdoit.sh`, configure some parameters in `justdoit.conf` to suit your needs
