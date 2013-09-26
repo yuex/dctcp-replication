@@ -8,7 +8,7 @@ NOTE: There are some dirty hacks and hard coding in it. My faults. In general, i
 
 Save IP of your nodes in `ipf` or other file you like, but use it consistently.
 
-To generate short and backgroound flows described in DCTCP
+To generate short and background flows described in DCTCP
 
     ./trafficgen.sh gen ipf traffic_dir
 
