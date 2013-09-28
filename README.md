@@ -1,8 +1,7 @@
 # DCTCP Replication
 
 This project is initially created for the replication of DCTCP in 2011.
-
-NOTE: There are some dirty hacks and hard coding in it. My faults. In general, it's still very primitive. But I think make it public may help someone trying to do some kind of work similar to the replication of DCTCP.
+NOTE: There are some dirty hacks and hard coding in it. My faults. In general, it's still very primitive.  But I think make it public may help someone on the replication of DCTCP or other similar work.
 
 # Workflow
 
