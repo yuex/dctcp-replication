@@ -27,6 +27,8 @@ Told daemons on nodes to start sending flows
 
     ./benchmarkstart.sh ipf
 
+**NOTE**: the path is hard coded in `benchmarkstart.sh`. For now, just change `sab/misc` to the directory path you use. I will improve it later
+
 Collect, clean and summarize logs
 
     ./getlog.sh
